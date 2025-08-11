@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# WebApp SDK
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern React boilerplate with interactive features, theme switching, and clean code practices. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+
+- Light/Dark theme switching
+- Interactive animations
+- Multi-language greetings
+- Modern design with clean code
+- Responsive layout
+- Cross-browser compatibility
 
 ## Available Scripts
 
